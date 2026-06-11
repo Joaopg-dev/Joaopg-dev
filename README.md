@@ -7,9 +7,9 @@
 Olá! Me chamo João! Sou estudante do primeiro semestre de Engenharia de Software da Universidade de Mogi das Cruzes (UMC) e fascinado pelo mundo da tecnologia! Sendo iniciante na área, procuro aprimorar meus conhecimentos, buscando evoluir minhas habilidades técnicas e as boas práticas da programação!
 
 <p>
-  <a href="mailto:gclima.me@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
-  <a href="https://www.linkedin.com/in/gclima-me/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
-  <a href="https://github.com/gclima-me"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:joaopedrx.11@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/joaopedro-gomess/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
+  <a href="https://github.com/joaopg-dev"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <br>
