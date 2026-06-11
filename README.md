@@ -2,7 +2,7 @@
 
 # Joao Pedro Gomes da Silva Rodrigues
 
-**`Software Engineering Student | IT Technician for the Web | Software Developer`**
+**`Software Engineering Student | Software Developer`**
 
 Olá! Me chamo João! Sou estudante do primeiro semestre de Engenharia de Software da Universidade de Mogi das Cruzes (UMC) e fascinado pelo mundo da tecnologia! Sendo iniciante na área, procuro aprimorar meus conhecimentos, buscando evoluir minhas habilidades técnicas e as boas práticas da programação!
 
