@@ -26,9 +26,4 @@ Olá! Me chamo João! Sou estudante do primeiro semestre de Engenharia de Softwa
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
-<br>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaopg-dev&layout=compact&langs_count=7&theme=tokyonight&title_color=59c678&text_color=ffffff&icon_color=59c678&bg_color=0d1117&hide_border=true" />
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaopg-dev&show_icons=true&theme=tokyonight&title_color=59c678&text_color=ffffff&icon_color=59c678&bg_color=0d1117&hide_border=true&count_private=true" />
-
 </div>
